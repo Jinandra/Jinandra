@@ -1,7 +1,12 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Jinandra Gupta, Fullstack developer from <img src="https://user-images.githubusercontent.com/10103696/222344382-5a58cd62-86a6-4307-9eac-3f288e241737.png" width="13"/> <b>New Delhi, India</b>. </p>
-<h3>Things I code with</h3>
+<p>Welcome to my page! </br> I'm Jinandra Gupta, Passionate Fullstack developer from <img src="https://user-images.githubusercontent.com/10103696/222344382-5a58cd62-86a6-4307-9eac-3f288e241737.png" width="13"/> <b>New Delhi, India</b>. </p>
+
+- 🔭 I'm a Full-time full-stack developer with over 10+ years of PHP experience. You can find me over upwork https://www.upwork.com/freelancers/~010458698f5bccfee1?viewMode=1
+- 💬 You can get in touch with me by email at [jinandra.gupta@gmail.com](mailto:jinandra.gupta@gmail.com) and [LinkedIn](https://www.linkedin.com/in/jinandra-gupta-49306122/).
+
+
+<h3>Languages and Tools:</h3>
 <p>
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-4F5B93?style=flat-square&logo=php&logoColor=white" />
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-F7342D?style=flat-square&logo=laravel&logoColor=white" />
@@ -33,42 +38,16 @@
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white" />
+  <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ff8f00?style=flat-square&logo=firebase&logoColor=white" />
 </p>
-<h3>Open source projects</h3>
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/WeAreAugustus/SMASHI-Web"><b>Smashi TV</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-	  <tr>
-      <td><a href="https://github.com/MyLoyaltyApps/mla"><b>My Loyalty App</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/digitalartflow/KATS"><b>KATS</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-  </tbody>
-</table>
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Jinandra&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+![](https://raw.githubusercontent.com/Jinandra/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/Jinandra/github-stats-transparent/output/generated/languages.svg)
 
 <!--
 **Jinandra/Jinandra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
