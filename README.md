@@ -2,7 +2,7 @@
 
 <p>Welcome to my page! </br> I'm Jinandra Gupta, Passionate Fullstack developer from <img src="https://user-images.githubusercontent.com/10103696/222344382-5a58cd62-86a6-4307-9eac-3f288e241737.png" width="13"/> <b>New Delhi, India</b>. </p>
 
-- 🔭 I'm a Full-time full-stack developer with over 10+ years of PHP experience. You can find me over upwork https://www.upwork.com/freelancers/~010458698f5bccfee1?viewMode=1
+- 🔭 I'm a Full-time full-stack developer with over 10+ years of PHP experience. You can find me over upwork https://www.upwork.com/freelancers/jgupta
 - 💬 You can get in touch with me by email at [jinandra.gupta@gmail.com](mailto:jinandra.gupta@gmail.com) and [LinkedIn](https://www.linkedin.com/in/jinandra-gupta-49306122/).
 
 
